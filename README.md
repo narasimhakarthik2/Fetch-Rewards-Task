@@ -1,4 +1,4 @@
-# Fetch Rewards Coding Exercise
+# Fetch Rewards Task
 This app fetches the data from https://fetch-hiring.s3.amazonaws.com/hiring.json and displays it based on certain conditions.
 
 ## Requirements
