@@ -9,4 +9,4 @@ This app fetches the data from https://fetch-hiring.s3.amazonaws.com/hiring.json
 ## Demo
 * List of IDs <br />  ![List of IDs](https://github.com/narasimhakarthik2/Fetch-Rewards-Task/blob/main/Demo/1.png)
 * Data sorted by ID and then by name <br />  ![Data sorted by ID and then by name](https://github.com/narasimhakarthik2/Fetch-Rewards-Task/blob/main/Demo/2.png)
-* [](https://github.com/narasimhakarthik2/Fetch-Rewards-Task/blob/main/Demo/1.png)
+* ![ListId 3](https://github.com/narasimhakarthik2/Fetch-Rewards-Task/blob/main/Demo/1.png)
