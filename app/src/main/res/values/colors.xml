@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fetchPrimary">#2196F3</color> <!-- Primary color -->
+    <color name="fetchPrimaryDark">#1976D2</color> <!-- Dark variant of the primary color -->
+    <color name="fetchAccent">#D0C0F8FF</color> <!-- Accent color -->
+    <color name="fetchStatusBar">#1565C0</color> <!-- Status bar color -->
+    <color name="black">#000000</color>
+    <!-- Add other colors as needed for your color scheme -->
+</resources>
